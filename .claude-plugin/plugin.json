@@ -1,0 +1,13 @@
+{
+  "name": "serverless-audit",
+  "version": "0.1.0",
+  "description": "Find the code that works on your laptop and breaks on Vercel or other serverless hosting, before your users find it.",
+  "author": {
+    "name": "Godwin Danjuma",
+    "url": "https://degordons.xyz"
+  },
+  "homepage": "https://github.com/degordonstech/serverless-audit",
+  "repository": "https://github.com/degordonstech/serverless-audit",
+  "license": "MIT",
+  "keywords": ["serverless", "vercel", "nextjs", "production", "audit", "webhooks", "cron", "debugging"]
+}

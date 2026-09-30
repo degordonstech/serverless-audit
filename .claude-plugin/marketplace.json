@@ -1,0 +1,16 @@
+{
+  "name": "serverless-audit",
+  "owner": {
+    "name": "Godwin Danjuma",
+    "email": "hello@degordons.xyz",
+    "url": "https://github.com/degordonstech"
+  },
+  "description": "A Claude Code plugin by Degordons for catching serverless production bugs before they ship.",
+  "plugins": [
+    {
+      "name": "serverless-audit",
+      "source": "./",
+      "description": "Scan a Next.js or Node project for serverless traps: unawaited work, per-instance memory, leaked secrets, timers, disk writes and cron limits."
+    }
+  ]
+}
