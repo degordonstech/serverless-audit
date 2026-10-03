@@ -1,5 +1,5 @@
 ---
-description: Scan this project for code that works locally but breaks on serverless hosting
+description: Scan this project for code that works locally but breaks on Vercel or other serverless hosting
 ---
 
 Audit this project for serverless traps using the serverless-audit skill.
